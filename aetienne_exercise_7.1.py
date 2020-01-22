@@ -2,8 +2,8 @@
 # -*- coding: utf-8 -*-
 """
 Created on Wed Jan 22 15:06:08 2020
-
-@author: aetienne
+Exercise 7.1: Square root comparison table 
+@author: Aaron Etienne (aetienne)
 """
 
 import math
